@@ -1,5 +1,5 @@
 ## Hi, I'm Shahadat Hossain 👋
-[<img src='[https://github.com/shovoalways/shovoalways/blob/main/img/bg.jpg?raw=true](https://i.ibb.co.com/WWJqW8Hb/Gemini-Generated-Image-y00pu2y00pu2y00p-Photoroom.png)' alt='Ali Hossain'>](https://github.com/shahadat-web-dev/)
+[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/bg.jpg?raw=true' alt='Ali Hossain'>](https://github.com/shovoalways/)
 <p>
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
