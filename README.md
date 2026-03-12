@@ -25,7 +25,7 @@ I enjoy solving problems, learning new technologies, and creating high-quality u
 
 ## 🚀 Tech Stack
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind,firebase,github,vscode" />
 </p>
 
