@@ -1,6 +1,5 @@
 ![Web Developer](https://i.ibb.co.com/WWJqW8Hb/Gemini-Generated-Image-y00pu2y00pu2y00p-Photoroom.png)
 
-![Web Developer](https://i.ibb.co.com/WWJqW8Hb/Gemini-Generated-Image-y00pu2y00pu2y00p-Photoroom.png)
 
 # 👋 Hi, I'm Shahadat Hossain
 
