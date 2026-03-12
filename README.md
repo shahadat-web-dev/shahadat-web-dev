@@ -54,7 +54,7 @@ I enjoy solving problems, learning new technologies, and creating high-quality u
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/shahadat-web-dev">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
