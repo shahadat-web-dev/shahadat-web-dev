@@ -31,6 +31,18 @@ I enjoy solving problems, learning new technologies, and creating high-quality u
 
 ---
 
+
+<!-- 📫 Contact Me -->
+<h3 align="center" style="margin-top: 2rem;">📫 Get in Touch</h3>
+<p align="center" style="font-size: 1rem;">
+  <strong>Email:</strong> 
+  <a href="mailto:skreazuddin87@gmail.com" style="color:#4EA1D3; font-weight:700;">skreazuddin87@gmail.com</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <strong>WhatsApp:</strong> 
+  <a href="https://wa.me/8801732341721" style="color:#0ea5e9; font-weight:700;">+880 1732 341721</a>
+</p>
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -47,17 +59,7 @@ I enjoy solving problems, learning new technologies, and creating high-quality u
 
 ---
 
-## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/shahadat-web-dev">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
 
 ---
 
