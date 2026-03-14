@@ -43,15 +43,7 @@ I enjoy solving problems, learning new technologies, and creating high-quality u
     <li><strong>Email:</strong> <a href="mailto:shahadatg762@gmail.com" style="color: #4EA1D3;">shahadatg762@gmail.com</a></li>
     <li><strong>Facebook:</strong> <a href="https://www.facebook.com/shahadat.hossain.80010" target="_blank" style="color: #4EA1D3;">https://www.facebook.com/shahadat.hossain.80010</a></li>
   </ul>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-top: 1.5rem; gap: 12px;">
-    <a href="https://wa.me/8801788097396" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black" alt="WhatsApp" />
-    </a>
-    <a href="shahadatg762@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&label=Send%20Email" alt="Gmail" />
-    </a>
-   
-  </div>
+ 
 
   <h4>
   🔍 I welcome feedback, collaboration, and contributions to my projects — feel free to check out my repos!  
