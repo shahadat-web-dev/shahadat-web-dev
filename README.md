@@ -36,10 +36,10 @@ I enjoy solving problems, learning new technologies, and creating high-quality u
 <h3 align="center" style="margin-top: 2rem;">📫 Get in Touch</h3>
 <p align="center" style="font-size: 1rem;">
   <strong>Email:</strong> 
-  <a href="mailto:skreazuddin87@gmail.com" style="color:#4EA1D3; font-weight:700;">skreazuddin87@gmail.com</a>
+  <a href="mailto:skreazuddin87@gmail.com" style="color:#4EA1D3; font-weight:700;">shahadatg762@gmail.com</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <strong>WhatsApp:</strong> 
-  <a href="https://wa.me/8801732341721" style="color:#0ea5e9; font-weight:700;">+880 1732 341721</a>
+  <a href="https://wa.me/8801732341721" style="color:#0ea5e9; font-weight:700;">+880 1788097396</a>
 </p>
 
 
