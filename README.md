@@ -5,13 +5,7 @@
 
 ### 💻 Web Developer | React & Next.js Enthusiast
 
-<div style="display: flex; justify-content: center; margin-top: 5rem; margin-bottom: 5rem;">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Mozilla+Headline&size=54&duration=3000&pause=1000&color=ed5a00&center=true&vCenter=true&width=1400&lines=I+am+Eftajul+Islam+Shadi;Full+Stack+Developer;I+thrive+on+exploring+new+technologies;And+solving+complex+problems.;Building+scalable%2C+high-impact+web+applications👀"
-    alt="Typing SVG"
-    style="max-width: 100%; height: auto;" />
-</div>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 <p align="center">
   <img src="https://i.ibb.co/1YN6VYfN/Gemini-Generated-Image-tfzzjstfzzjstfzz-cleanup.png" alt="Banner" />
 </p>
