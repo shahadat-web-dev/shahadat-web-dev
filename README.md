@@ -1,4 +1,6 @@
-![Web Developer](https://i.ibb.co.com/WWJqW8Hb/Gemini-Generated-Image-y00pu2y00pu2y00p-Photoroom.png)
+<p align="center">
+  <img src="https://i.ibb.co/1YN6VYfN/Gemini-Generated-Image-tfzzjstfzzjstfzz-cleanup.png" alt="Banner" />
+</p>
 
 
 <h1 align="center">👋 Hi, I'm Shahadat Hossain</h1>
@@ -6,9 +8,7 @@
 ### 💻 Web Developer | React & Next.js Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
-<p align="center">
-  <img src="https://i.ibb.co/1YN6VYfN/Gemini-Generated-Image-tfzzjstfzzjstfzz-cleanup.png" alt="Banner" />
-</p>
+
 
 ---
 
