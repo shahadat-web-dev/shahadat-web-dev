@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://i.ibb.co/1YN6VYfN/Gemini-Generated-Image-tfzzjstfzzjstfzz-cleanup.png" alt="Banner" />
+  <img src="https://i.ibb.co/1YN6VYfN/Gemini-Generated-Image-tfzzjstfzzjstfzz-cleanup.png" 
+       alt="Banner" 
+       width="100%" />
 </p>
 
 
