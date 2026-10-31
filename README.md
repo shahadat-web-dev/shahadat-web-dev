@@ -9,7 +9,22 @@
 
 ### 💻 Web Developer | React & Next.js Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+
+<p align="center">
+  <img
+    src="https://i.ibb.co/whSrbZCH/Purple-Neon-Developer-Portfolio-Banner.png"
+    alt="Shahadat Hossain GitHub Banner"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A855F7&center=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies"
+    alt="Typing SVG"
+  />
+</p>
+
 
 
 ---
