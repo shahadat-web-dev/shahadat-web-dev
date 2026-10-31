@@ -1,11 +1,4 @@
-<p align="center">
-  <img src="https://i.ibb.co.com/YBBJzB3X/Gemini-Generated-Image-4pn9b84pn9b84pn9-1-cleanup.png" 
-       alt="Banner" 
-       width="100%" />
-</p>
 
-
-<h1 align="center">👋 Hi, I'm Shahadat Hossain</h1>
 
 ### 💻 Web Developer | React & Next.js Enthusiast
 
