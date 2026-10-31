@@ -1,8 +1,4 @@
 
-
-### 💻 Web Developer | React & Next.js Enthusiast
-
-
 <p align="center">
   <img
     src="https://i.ibb.co/whSrbZCH/Purple-Neon-Developer-Portfolio-Banner.png"
@@ -18,6 +14,8 @@
   />
 </p>
 
+<!-- Animated Welcome -->
+<h1>Hey there. I'm Rakibul Islam 👋</h1>
 
 
 ---
