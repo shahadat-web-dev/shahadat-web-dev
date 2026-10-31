@@ -15,7 +15,7 @@
 </p>
 
 <!-- Animated Welcome -->
-<h1>Hey there. I'm Rakibul Islam 👋</h1>
+<h1 align="center">Hey there. I'm Shahadat Hossain 👋</h1>
 
 
 ---
